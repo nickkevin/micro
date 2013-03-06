@@ -2,9 +2,10 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.12'
 gem 'paperclip'
+gem 'yaml_db'
 
 group :development do
-  gem 'sqlite3', '1.3.5'
+  gem 'mysql'
 end
 
 

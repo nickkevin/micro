@@ -1,8 +1,8 @@
 --- 
 cursor_positions: 
   - :path: Gemfile
-    :cursor_offset: 70
-    :timestamp: 2013-03-05 19:28:54.125000 +05:30
+    :cursor_offset: 119
+    :timestamp: 2013-03-05 19:50:23.125000 +05:30
   - :path: app/models/user.rb
     :cursor_offset: 98
     :timestamp: 2013-03-05 19:30:06.359000 +05:30
@@ -18,4 +18,7 @@ cursor_positions:
   - :path: config/routes.rb
     :cursor_offset: 1506
     :timestamp: 2013-03-05 19:32:27.718000 +05:30
+  - :path: config/database.yml
+    :cursor_offset: 519
+    :timestamp: 2013-03-05 19:49:25.937000 +05:30
 files_to_retain: 0
